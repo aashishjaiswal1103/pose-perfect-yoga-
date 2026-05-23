@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+opencv-python
+mediapipe
+scikit-learn
+numpy
+pydantic
+python-multipart
+websockets
+supabase
+python-dotenv
+bcrypt
+pandas

@@ -1,0 +1,142 @@
+{
+  "placeholderImages": [
+    {
+      "id": "lotus-silhouette",
+      "description": "Subtle silhouette of a lotus flower for the hero section background.",
+      "imageUrl": "https://images.unsplash.com/photo-1616435577207-ca90abc6b732?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsb3R1cyUyMGZsb3dlcnxlbnwwfHx8fDE3NTk0MTQzODJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lotus flower"
+    },
+    {
+      "id": "pose-warrior",
+      "description": "Yoga warrior pose.",
+      "imageUrl": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx5b2dhJTIwcG9zZXxlbnwwfHx8fDE3NTkzOTY3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "yoga pose"
+    },
+    {
+      "id": "pose-tree",
+      "description": "Yoga tree pose.",
+      "imageUrl": "https://images.unsplash.com/photo-1504177151729-0e0600389766?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx5b2dhJTIwbmF0dXJlfGVufDB8fHx8MTc1OTQ3MjEyMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "yoga nature"
+    },
+    {
+      "id": "pose-lotus",
+      "description": "Yoga lotus pose.",
+      "imageUrl": "https://images.unsplash.com/photo-1663412070733-e7d0031c53f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtZWRpdGF0aW9uJTIweW9nYXxlbnwwfHx8fDE3NTk0Mjc2NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "meditation yoga"
+    },
+    {
+      "id": "pose-downdog",
+      "description": "Yoga downward dog pose.",
+      "imageUrl": "https://images.unsplash.com/photo-1613602025754-04e1b4a24156?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx5b2dhJTIwc3RyZXRjaHxlbnwwfHx8fDE3NTkzOTE1NTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "yoga stretch"
+    },
+    {
+      "id": "about-yogi",
+      "description": "Illustration of a yogi meditating.",
+      "imageUrl": "https://images.unsplash.com/photo-1663947373657-e23affc3f189?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxtZWRpdGF0aW9uJTIwc2lsaG91ZXR0ZXxlbnwwfHx8fDE3NTk0NzQ4OTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "meditation silhouette"
+    },
+    {
+      "id": "modal-pose",
+      "description": "Large image of a yoga pose for the modal.",
+      "imageUrl": "https://images.unsplash.com/photo-1663412070449-3b6caa527494?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx5b2dhJTIwcHJhY3RpY2V8ZW58MHx8fHwxNzU5NDc0ODk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "yoga practice"
+    },
+    {
+      "id": "pose-triangle",
+      "description": "Yoga triangle pose.",
+      "imageUrl": "https://images.unsplash.com/photo-1603525324711-94d072be6dbd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx5b2dhJTIwdHJpYW5nbGV8ZW58MHx8fHwxNzU5NTc3OTE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "yoga triangle"
+    },
+    {
+      "id": "pose-mountain",
+      "description": "Yoga mountain pose.",
+      "imageUrl": "https://images.unsplash.com/photo-1580492990551-8e359a9addae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8eW9nYSUyMG1vdW50YWlufGVufDB8fHx8MTc1OTU3NzkxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "yoga mountain"
+    },
+    {
+      "id": "pose-bridge",
+      "description": "Yoga bridge pose.",
+      "imageUrl": "https://images.unsplash.com/photo-1678985854460-94df3afe13f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx5b2dhJTIwYnJpZGdlfGVufDB8fHx8MTc1OTU3NzkxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "yoga bridge"
+    },
+    {
+      "id": "pose-cobra",
+      "description": "Yoga cobra pose.",
+      "imageUrl": "https://images.unsplash.com/photo-1753018452010-6327eeaaa97b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8eW9nYSUyMGNvYnJhfGVufDB8fHx8MTc1OTU3NzkxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "yoga cobra"
+    },
+    {
+      "id": "pose-child",
+      "description": "Yoga child's pose.",
+      "imageUrl": "https://images.unsplash.com/photo-1540205570762-38fc2fe09afc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx5b2dhJTIwcmVzdGluZ3xlbnwwfHx8fDE3NTk1Nzc5MTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "yoga resting"
+    },
+    {
+      "id": "pose-cat-cow",
+      "description": "Yoga cat-cow pose.",
+      "imageUrl": "https://images.unsplash.com/photo-1516209293065-e5b8066cc0d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx5b2dhJTIwc3BpbmV8ZW58MHx8fHwxNzU5NTc3OTE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "yoga spine"
+    },
+    {
+      "id": "pose-plank",
+      "description": "Yoga plank pose.",
+      "imageUrl": "https://images.unsplash.com/photo-1758599879161-aa3d234ecb74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx5b2dhJTIwY29yZXxlbnwwfHx8fDE3NTk1Nzc5MTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "yoga core"
+    },
+    {
+      "id": "pose-upward-dog",
+      "description": "Yoga upward-facing dog pose.",
+      "imageUrl": "https://images.unsplash.com/photo-1758599879795-536d5f203de9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx5b2dhJTIwYmFja2JlbmR8ZW58MHx8fHwxNzU5NTc3OTE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "yoga backbend"
+    },
+    {
+      "id": "pose-half-moon",
+      "description": "Yoga half moon pose.",
+      "imageUrl": "https://images.unsplash.com/photo-1552196603-d02485940b9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx5b2dhJTIwYmFsYW5jZXxlbnwwfHx8fDE3NTk1Nzc5MTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "yoga balance"
+    },
+    {
+      "id": "pose-crow",
+      "description": "Yoga crow pose.",
+      "imageUrl": "https://images.unsplash.com/photo-1758599880425-7862af0a4b50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx5b2dhJTIwYXJtfGVufDB8fHx8MTc1OTU3NzkxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "yoga arm"
+    },
+    {
+      "id": "pose-pigeon",
+      "description": "Yoga pigeon pose.",
+      "imageUrl": "https://images.unsplash.com/photo-1720788073785-c71095920eeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8eW9nYSUyMGhpcHxlbnwwfHx8fDE3NTk1Nzc5MTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "yoga hip"
+    },
+    {
+      "id": "pose-garland",
+      "description": "Yoga garland pose.",
+      "imageUrl": "https://images.unsplash.com/photo-1582106316415-d02d4d0e9066?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx5b2dhJTIwc3F1YXR8ZW58MHx8fHwxNzU5NTc3OTE4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "yoga squat"
+    },
+    {
+      "id": "pose-eagle",
+      "description": "Yoga eagle pose.",
+      "imageUrl": "https://images.unsplash.com/photo-1585154536515-c766bd2a6cdc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx5b2dhJTIwdHdpc3R8ZW58MHx8fHwxNzU5NTc3OTE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "yoga twist"
+    },
+    {
+      "id": "pose-corpse",
+      "description": "Yoga corpse pose.",
+      "imageUrl": "https://images.unsplash.com/photo-1621691223255-b89d5623df3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx5b2dhJTIwcmVsYXhhdGlvbnxlbnwwfHx8fDE3NTk1Nzc5MTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "yoga relaxation"
+    },
+    {
+      "id": "pose-seated-bend",
+      "description": "Yoga seated forward bend pose.",
+      "imageUrl": "https://images.unsplash.com/photo-1720788073785-c71095920eeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx5b2dhJTIwZm9yd2FyZHxlbnwwfHx8fDE3NTk1Nzc5MTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "yoga forward"
+    },
+    {
+      "id": "pose-fish",
+      "description": "Yoga fish pose.",
+      "imageUrl": "https://images.unsplash.com/photo-1758599879693-9e06f55a4ded?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8eW9nYSUyMGNoZXN0fGVufDB8fHx8MTc1OTU3NzkxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "yoga chest"
+    }
+  ]
+}
